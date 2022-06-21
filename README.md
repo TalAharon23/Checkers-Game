@@ -1,4 +1,5 @@
-# Checkers Game
+# Checkers Game 
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/TalAharon23?style=social">
 
 ## Description:
 Checkers (American English), also known as draughts (British English), is a group of strategy board games for two players which involve 
